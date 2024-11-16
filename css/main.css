@@ -94,6 +94,7 @@ section {
 }
 .section-data span {
     font-family: var(--roboto);
+    color: red;
 }
 
 section p {
